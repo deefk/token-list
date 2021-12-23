@@ -62811,6 +62811,20 @@
         "social-token"
       ]
     },
+{
+  "chainId": 101,
+  "address": "6p1Mpajm3D2sxXmQzEnBpn2Y5EEhkLqcV6JbapNvZT51",
+  "symbol": "18+",
+  "name": "FLOES",
+  "decimals": 3,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6p1Mpajm3D2sxXmQzEnBpn2Y5EEhkLqcV6JbapNvZT51/logo.svg",
+  "tags": [
+    "social-token",
+  ],
+  "extensions": {
+    "website": "https://floes.eu"
+  }
+},
     {
       "chainId": 101,
       "address": "12WvCE1De1VjSRqSGQaity54T8Mvo22gvnxs1Lxc2Vmx",
